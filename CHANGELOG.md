@@ -21,5 +21,5 @@
 - CI (GitHub Actions) на Python 3.10 / 3.11 / 3.12, Linux и Windows.
 - Покрытие тестами 99.7%.
 
-[Unreleased]: https://github.com/getri/okru-sdk/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/getri/okru-sdk/releases/tag/v0.1.0
+[Unreleased]: https://github.com/getrismine/okru-sdk/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/getrismine/okru-sdk/releases/tag/v0.1.0

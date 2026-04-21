@@ -9,7 +9,10 @@ description = "Python-клиент для API ok.ru: OAuth2, подпись за
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "getri" }]
+authors = [
+    { name = "Шевцов Семён Валентинович", email = "shevtcov.sva@dvfu.ru" },
+    { name = "Гайнутдинов Роман Алексеевич", email = "gainutdinov.ra@dvfu.ru" },
+]
 keywords = ["odnoklassniki", "ok.ru", "api", "sdk", "oauth2"]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -37,9 +40,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/getri/okru-sdk"
-Issues = "https://github.com/getri/okru-sdk/issues"
-Changelog = "https://github.com/getri/okru-sdk/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/getrismine/okru-sdk"
+Issues = "https://github.com/getrismine/okru-sdk/issues"
+Changelog = "https://github.com/getrismine/okru-sdk/blob/main/CHANGELOG.md"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/okru"]

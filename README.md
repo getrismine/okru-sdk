@@ -1,6 +1,6 @@
 # okru-sdk
 
-[![ci](https://github.com/getri/okru-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/getri/okru-sdk/actions/workflows/ci.yml)
+[![ci](https://github.com/getrismine/okru-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/getrismine/okru-sdk/actions/workflows/ci.yml)
 [![python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
@@ -156,7 +156,7 @@ okru/
 ## Разработка
 
 ```bash
-git clone https://github.com/getri/okru-sdk.git
+git clone https://github.com/getrismine/okru-sdk.git
 cd okru-sdk
 python -m venv .venv && .venv/Scripts/activate  # или source .venv/bin/activate
 pip install -e ".[dev]"
@@ -175,6 +175,13 @@ ruff check .     # линтер
 - Помощник пагинации для методов, где он не сделан.
 
 PR-ы приветствуются. Правила — в [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Авторы
+
+Проект выполнен студентами группы Б1124-38.03.05 ба(1), ДВФУ:
+
+- Шевцов Семён Валентинович — shevtcov.sva@dvfu.ru
+- Гайнутдинов Роман Алексеевич — gainutdinov.ra@dvfu.ru
 
 ## Лицензия
 
